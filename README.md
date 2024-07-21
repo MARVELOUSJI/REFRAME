@@ -124,7 +124,7 @@ python main.py --datadir your_dataset_path --initial_mesh your_trained_mesh --ru
 
 **Quantitative Comparison**. Baseline comparisons of the rendering quality on three different datasets. <span style="color:red; font-weight:bold;">Red</span> represents the optimal, <span style="color:orange; font-weight:bold;">orange</span> represents the second best, and <span style="color:#FFD700; font-weight:bold;">yellow</span> represents the third.
 
-<img src="assets/visualizationpatch.pdf"/>
+<img src="assets/visualization.png"/>
 
 **Qualitative Comparison**. Our method achieves optimal rendering quality in most scenes and provides better modeling of reflective appearance compared to the baselines.
 
