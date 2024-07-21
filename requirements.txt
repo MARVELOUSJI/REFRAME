@@ -1,0 +1,12 @@
+tqdm
+tensorboardX
+matplotlib
+imageio
+pytorch_msssim
+lpips
+opencv-python
+meshzoo
+trimesh
+xatlas
+scikit-learn
+imageio-ffmpeg
