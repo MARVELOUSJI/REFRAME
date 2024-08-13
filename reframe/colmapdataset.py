@@ -195,8 +195,6 @@ class ColmapDataset:
         self.poses[:, 2] *= -1
         self.poses[:, :3, 3] *= self.scale
 
-
-        self.poses = np.linalg.inv(poses)
  
 
 
